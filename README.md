@@ -1,62 +1,84 @@
-## Hi there, I'm Firman 👋
+## Hi there, I'm Firman 👋  
+**Data Analyst | Business Intelligence | Turning Data into Actionable Insights**
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Dashboarding+%7C+Business+Insights;From+Messy+Data+to+Clear+Decisions" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/m-firman-n/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+---
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+## 🚀 About Me
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I'm a **Data Analyst** with a strong focus on **business problem-solving**, not just numbers.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://mfirmann.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+I help teams understand **where revenue leaks happen**, **why conversion drops**, and **what actions should be taken next** — using SQL-driven analysis, clear visualizations, and practical insights that stakeholders can actually use.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+My strength lies in:
+- Translating business questions into analytical frameworks  
+- Writing clean, logical SQL for funnel, cohort, and KPI analysis  
+- Building dashboards and lightweight analytical tools to communicate insights clearly  
 
-## 🌱 Currently Learning 
+I enjoy the *“aha!” moment* when data reveals a simple truth behind a complex problem.
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+🔗 **Portfolio Website:**  
+👉 https://mfirmann.github.io/
+
+---
+
+## 🔭 Featured Projects
+
+- **[📊E-Commerce Funnel Analysis - Android Bug Discovery](https://github.com/mfirmann/E-Commerce-Funnel-Analysis)**  
+  Funnel analysis using SQL & Tableau to identify a critical payment bug causing major revenue loss.
+
+- **[⛈️Agri-Supply Chain Risk Monitor System](https://github.com/mfirmann/agri-supply-alert)**  
+  Automated data pipeline + alerting workflow using Python, Google Sheets, and Looker Studio.
+
+- **[📊Stock Market Time Series Forecasting App](https://github.com/mfirmann/Stockmarket-Forecasting-App-Prophet-Streamlit)**  
+  End-to-end analytical project: data ingestion → forecasting → Streamlit app (for insight delivery, not trading advice).
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL (window functions, performance optimization)
+- Product & Growth Analytics (funnels, retention, experimentation)
+- Better storytelling with dashboards & lightweight apps
+
+---
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
+### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
 </p>
 
-#### Programming & Automation
+### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-Data%20Apps-FF4B4B?style=flat&logo=streamlit&logoColor=white">
 </p>
 
-#### Business Intelligence & Analytics
+### Analytics & Business Skills
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Funnel%20Analysis-Experienced-4ECDC4?style=flat">
+  <img src="https://img.shields.io/badge/Cohort%20Analysis-Experienced-96CEB4?style=flat">
+  <img src="https://img.shields.io/badge/KPI%20Development-Strong-45B7D1?style=flat">
+  <img src="https://img.shields.io/badge/Business%20Insights-Driven-FF6B6B?style=flat">
 </p>
+
+---
+
+📌 *This GitHub profile showcases selected projects from my data analytics journey, focusing on real-world business problems and practical solutions.*
