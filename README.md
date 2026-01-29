@@ -36,6 +36,9 @@ I enjoy the *“aha!” moment* when data reveals a simple truth behind a comple
 
 ## 🔭 Featured Projects
 
+- **[📡 FTTH Network Performance Optimization (SLA Analysis)](https://github.com/mfirmann/telco-ftth-performance-analysis)**  
+  Operational analytics on 100k+ logs using Python & SQL to diagnose critical SLA breaches (18%) and optimize technician workforce allocation.
+
 - **[📊E-Commerce Funnel Analysis - Android Bug Discovery](https://github.com/mfirmann/E-Commerce-Funnel-Analysis)**  
   Funnel analysis using SQL & Tableau to identify a critical payment bug causing major revenue loss.
 
