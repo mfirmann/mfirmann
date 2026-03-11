@@ -30,7 +30,7 @@ My strength lies in:
 I enjoy the *“aha!” moment* when data reveals a simple truth behind a complex problem.
 
 🔗 **Portfolio Website:**  
-👉 https://mfirmann*github*io/
+👉 "https://mfirmann*github*io/"
 
 ---
 
